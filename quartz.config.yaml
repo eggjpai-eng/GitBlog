@@ -193,7 +193,7 @@ plugins:
   - source: "@quartz-community/tag-list"
     enabled: false
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 30
   - source: "@quartz-community/page-title"
     enabled: true
@@ -230,7 +230,7 @@ plugins:
         lang: ko
     layout:
       position: afterBody
-      priority: 10
+      priority: 40
   - source: "@quartz-community/footer"
     enabled: true
     options:
