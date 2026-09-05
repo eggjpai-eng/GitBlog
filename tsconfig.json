@@ -9,6 +9,7 @@
     "incremental": true,
     "resolveJsonModule": true,
     "skipLibCheck": true,
+    "noEmit": true,
     "noImplicitAny": false,
     "ignoreDeprecations": "5.0",
     "allowSyntheticDefaultImports": true,
