@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: A Glitchy Dream
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -225,9 +225,9 @@ plugins:
       options:
         repo: eggjpai-eng/GitBlog
         repoId: R_kgDOUPGXLA
-        category: "GISCUS"
-        categoryId: "DIC_kwDOUPGXLM4DE7rH"
-        lang: "ko"
+        category: GISCUS
+        categoryId: DIC_kwDOUPGXLM4DE7rH
+        lang: ko
     layout:
       position: afterBody
       priority: 10
@@ -277,6 +277,18 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:quartz-community/tag-list
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: beforeBody
+      priority: 30
+  - source: github:quartz-community/tag-page
+    enabled: true
+    options:
+      numPages: 10
     order: 50
 layout:
   groups:
