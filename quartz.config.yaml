@@ -283,7 +283,7 @@ plugins:
     options: {}
     order: 50
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 30
   - source: github:quartz-community/tag-page
     enabled: true
