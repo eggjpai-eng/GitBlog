@@ -27,6 +27,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Grant Execution Permission
+        run: chmod +x node_modules/.bin/quartz || chmod -R +x .
+      
       - name: Build Quartz
         run: npx quartz build
 
