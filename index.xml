@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>A Glitchy Dream</title>
+      <link>https://eggjpai-eng.github.io/GitBlog</link>
+      <description>Last 10 notes on A Glitchy Dream</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>JustChat</title>
+    <link>https://eggjpai-eng.github.io/GitBlog/justchat/</link>
+    <guid>https://eggjpai-eng.github.io/GitBlog/justchat/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 06 Sep 2026 13:17:35 GMT</pubDate>
+  </item><item>
+    <title>diy</title>
+    <link>https://eggjpai-eng.github.io/GitBlog/tags/diy</link>
+    <guid>https://eggjpai-eng.github.io/GitBlog/tags/diy</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 06 Sep 2026 13:17:35 GMT</pubDate>
+  </item><item>
+    <title>keyboard</title>
+    <link>https://eggjpai-eng.github.io/GitBlog/tags/keyboard</link>
+    <guid>https://eggjpai-eng.github.io/GitBlog/tags/keyboard</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 06 Sep 2026 13:17:35 GMT</pubDate>
+  </item><item>
+    <title>태그 목록</title>
+    <link>https://eggjpai-eng.github.io/GitBlog/tags/</link>
+    <guid>https://eggjpai-eng.github.io/GitBlog/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 06 Sep 2026 13:17:35 GMT</pubDate>
+  </item><item>
+    <title>61키 키보드 사용 후기</title>
+    <link>https://eggjpai-eng.github.io/GitBlog/justchat/2026_0906</link>
+    <guid>https://eggjpai-eng.github.io/GitBlog/justchat/2026_0906</guid>
+    <description><![CDATA[ 마우스를 좀 편하게 쓰고 싶었다 아주 옛날에는 풀배열(108key)를 사용하다가, 10년쯤 전에 텐키리스(87key)로 옮겼었다. ]]></description>
+    <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://eggjpai-eng.github.io/GitBlog/</link>
+    <guid>https://eggjpai-eng.github.io/GitBlog/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. tested by EGGJPAI, 2026/09/05. ]]></description>
+    <pubDate>Sat, 05 Sep 2026 13:29:24 GMT</pubDate>
+  </item><item>
+    <title>블로그 설치 시도</title>
+    <link>https://eggjpai-eng.github.io/GitBlog/justchat/2026_0905</link>
+    <guid>https://eggjpai-eng.github.io/GitBlog/justchat/2026_0905</guid>
+    <description><![CDATA[ github을 블로그처럼 쓸 수 있다는 말에 괜히 건드렸다가 하루죙일 고생한데다가, 그럼에도 불구하고 아직 댓글 기능도 설치 못함. 일단 한글부터 오류나는 듯 하구나. 거기다가 2번 deploy하면 오류가 발생하는 해괴한 문제도 있음. ]]></description>
+    <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
