@@ -1,8 +1,7 @@
 ---
-title: Welcome to Quartz
+title: A Glitchy Dream
 ---
+그냥 대충 쓰기 시작한 블로그.
+나름대로의 생각을 열심히 정리하고 싶다. 아님 말고.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-tested by EGGJPAI, 2026/09/05
+EGGJPAI, 2026/09/05
